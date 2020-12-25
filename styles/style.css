@@ -88,9 +88,6 @@
 
 .two-columns__brief {
   width: 175px;
-}
-
-.two-columns__brief_title {
   margin: 0;
   color: #2f80ed;
   font-size: 18px;
@@ -227,6 +224,7 @@
 
 .table_theme_dark {
   color: white;
+  margin-bottom: 0;
 }
 
 .table__cell_theme_dark {
