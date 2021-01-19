@@ -10,4 +10,5 @@
   align-content: flex-start;
   padding-left: 64px;
   z-index: 1;
+  overflow: hidden;
 }
