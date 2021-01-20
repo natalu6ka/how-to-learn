@@ -2,7 +2,7 @@
 ##  Practice project website
 
 ------
-Project created to train skills of developing websites with HTML5 CSS3 Java Script technologies
+Project created to train skills of developing websites with HTML5 CSS3 Java Script technologies 
 Files structure organized with BEM-Nested technology
 
 ------
