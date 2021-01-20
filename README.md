@@ -1,10 +1,10 @@
 # How-to-learn
-##  *Practice project website*
-Alt-H1
+##  Practice project website
+
 ------
 Project created to train skills of developing websites with HTML5 CSS3 Java Script technologies
 Files structure organized with BEM-Nested technology
-Alt-H1
+
 ------
 ## To do list:
 1. To check code for cross-browser compatibility (with [Can I Use](https://caniuse.com/) website) and to add vendor prefixes (with [website](https://autoprefixer.github.io]))
