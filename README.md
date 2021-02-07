@@ -1,8 +1,8 @@
 # How-to-learn
-##  Practice project website
 
+Practice project website
 ------
-Project created to train skills of developing websites with HTML5 CSS3 Java Script technologies. 
+Project created to train skills of developing websites with HTML5 CSS3 Java Script technologies.
 Files structure organized with BEM-Nested technology.
 
 ------
@@ -11,3 +11,7 @@ Files structure organized with BEM-Nested technology.
 2. To link new fonts (with @font-face declaration way)
 3. Interface development for different devices using new studing technologies
 4. To create interactive feedback form using new studing technologies
+
+------
+
+Visit project-site: [How-to-learn project](https://natalu6ka.github.io/how-to-learn/index.html)
